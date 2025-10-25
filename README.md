@@ -24,7 +24,7 @@ from ex004 import oct_to_dec
 print(oct_to_dec('127')) # 87
 ```
 
-Foi feita uma questão bônus, que é `b1.py`, uma adaptação da função principal de `ex007.py`, que agora suporta números fracionários.
+Foram feitas duas questões bônus, `b1.py` e `b2.py`. A primeira sendo uma adaptação da função principal de `ex007.py`, que agora suporta números fracionários, e a segunda implementando funções para o [complemento de dois](https://pt.wikipedia.org/wiki/Complemento_para_dois), para representar inteiros negativos em largura fixa.
 
 ## Autores
 
